@@ -18,6 +18,7 @@ npm start
 ### Contribution to the project
 See [My own page](https://charlyceballos.github.io/).
 
+### Meme
 <div>
-  <img src='./meme.jpeg' alt='Meme' style="width:10%"/>
+  <img src='./meme.jpeg' />
 </div>
