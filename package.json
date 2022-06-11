@@ -1,0 +1,11 @@
+{
+  "name": "smallest-number-shorter-version",
+  "version": "1.0.0",
+  "description": "Searching smallest number in array attending a meme",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Carlos Ceballos Amador",
+  "license": "MIT"
+}
